@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @ScrappsDev
+- 👀 I’m interested in Web developing
+- 🌱 I’m currently learning C#, Python, JavaScript
